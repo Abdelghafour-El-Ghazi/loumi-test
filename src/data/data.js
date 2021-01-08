@@ -1,5 +1,3 @@
-//Récupération des données du serveur
-
 import me from "../images/pp.jpg";
 import buffon from "../images/buffon.jpg";
 import cris from "../images/cris.jpg";
